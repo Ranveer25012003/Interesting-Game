@@ -6,4 +6,4 @@ This is a CHESS game that has the following features:
 4. The game can be paused at any point of time, but the game board will not be displayed until the game is resumed.
  
 
-By Alok Darshi
+
